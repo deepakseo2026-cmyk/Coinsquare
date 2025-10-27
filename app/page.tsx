@@ -154,7 +154,7 @@ export default function HomePage() {
 
   return (
     <div className="h-screen w-full overflow-hidden flex justify-center items-center">
-      <div className=" w-full flex h-full bg-[#e2dffe] overflow-scroll">
+      <div className=" w-full flex h-full bg-[#d2e9ef] overflow-scroll">
         {/* Left Section */}
 
         {/* Right Section */}
